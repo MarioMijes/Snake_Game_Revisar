@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+//Este programa fue basado en el tutorial: http://www.youtube.com/watch?v=mLIB60wG_AI 
+//de: TutorialHouseNz
 namespace Snake_Game
 {
     public partial class Form1 : Form
